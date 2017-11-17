@@ -1,2 +1,3 @@
 # CDE
-code of IJCAI 2017 Embedding-based Representation of Categorical Data by Hierarchical Value Coupling Learning
+Code for
+Coupled data embedding for categorical data (IJCAI2017)
